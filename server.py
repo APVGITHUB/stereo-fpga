@@ -1,7 +1,3 @@
-# Welcome to PyShine
-
-# This code is for the server 
-# Lets import the libraries
 import socket, cv2, pickle,struct,imutils
 
 # Socket Create
